@@ -1,5 +1,5 @@
 # ltr303 Adafruit library standalone for esp-idf
-Direct conversion of the ltr303 arduino library for using it directly in eps-idf.
+Direct conversion of the ltr303 arduino library for using it directly in eps-idf, with no Arduino dependencies.
 
 Should work out of the box.
 
